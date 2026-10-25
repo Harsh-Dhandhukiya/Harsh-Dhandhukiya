@@ -230,7 +230,7 @@
       <rect class="" x="0" y="0" width="520" height="568" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
       
       <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#30363d">─</tspan><tspan fill="#c5ff4a"> Harsh-Dhandhukiya@github </tspan><tspan fill="#30363d">────────────────────────────────</tspan></text>
-<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">.......................</tspan><tspan fill="#f0f6fc"> 2 years, 5 months, 7 days</tspan></text>
+<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">.......................</tspan><tspan fill="#f0f6fc"> 2 years, 5 months, 8 days</tspan></text>
 <text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Location: </tspan><tspan fill="#484f58">............</tspan><tspan fill="#f0f6fc"> Gandhinagar, Gujarat(State), INDIA</tspan></text>
 <text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#f0f6fc"> C++, HTML, TypeScript, Java, C</tspan></text>
 <text x="12" y="92" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Joined: </tspan><tspan fill="#484f58">........................................</tspan><tspan fill="#f0f6fc"> May 2024</tspan></text>
@@ -239,7 +239,7 @@
 <text x="12" y="154" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Email: </tspan><tspan fill="#484f58">..........................</tspan><tspan fill="#f0f6fc"> 25harsh012005@gmail.com</tspan></text>
 <text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#30363d">─</tspan><tspan fill="#c5ff4a"> GitHub Stats </tspan><tspan fill="#30363d">────────────────────────────────────────────</tspan></text>
 <text x="12" y="198" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">.................</tspan><tspan fill="#79c0ff"> 9</tspan><tspan fill="#30363d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">.................</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-<text x="12" y="216" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">............................................</tspan><tspan fill="#79c0ff"> 203</tspan></text>
+<text x="12" y="216" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">............................................</tspan><tspan fill="#79c0ff"> 205</tspan></text>
   
     </g>
   
@@ -367,7 +367,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        321
+                        323
                     </text>
                 </g>
 
@@ -396,7 +396,7 @@
                 <!-- Current Streak range -->
                 <g transform='translate(247.5, 145)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
-                        Oct 5, 2026 - Oct 24, 2026
+                        Oct 5, 2026 - Oct 25, 2026
                     </text>
                 </g>
 
@@ -413,7 +413,7 @@
                 <!-- Current Streak big number -->
                 <g transform='translate(247.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='animation: currstreak 0.6s linear forwards'>
-                        20
+                        21
                     </text>
                 </g>
 
@@ -499,7 +499,7 @@
     <g class="row" style="animation-delay:150ms">
       <svg x="25" y="85" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5h-3.32zM8 10.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"/></svg>
       <text x="50" y="97.5" class="label">Total Commits (2026):</text>
-      <text x="350" y="97.5" class="value" text-anchor="end">193</text>
+      <text x="350" y="97.5" class="value" text-anchor="end">195</text>
       
     </g>
     <g class="row" style="animation-delay:300ms">
@@ -517,13 +517,13 @@
     <g class="row" style="animation-delay:600ms">
       <svg x="25" y="160" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff"><path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm.5 4.75v3.44l2.78 1.61a.75.75 0 1 1-.75 1.3l-3.16-1.83A.75.75 0 0 1 7 8.69V4.75a.75.75 0 0 1 1.5 0z"/></svg>
       <text x="50" y="172.5" class="label">Estimated Coding Hours:</text>
-      <text x="350" y="172.5" class="value" text-anchor="end">102.5h</text>
+      <text x="350" y="172.5" class="value" text-anchor="end">103.5h</text>
       
     </g>
     <g class="row" style="animation-delay:750ms">
       <svg x="25" y="185" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff"><path d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.943.114 1.5-.455 1.5-.638 0-1.18-.504-1.48-1.089a3.645 3.645 0 0 1-.346-1.323 3.9 3.9 0 0 0-.6.961c-.563.767-.895 1.636-.895 2.622 0 2.52 2.168 4.5 5 4.5z"/></svg>
       <text x="50" y="197.5" class="label">Current Streak:</text>
-      <text x="350" y="197.5" class="value" text-anchor="end">20 days</text>
+      <text x="350" y="197.5" class="value" text-anchor="end">21 days</text>
       
     </g>
     <g class="row" style="animation-delay:900ms">
@@ -544,7 +544,7 @@
     <g class="row" style="animation-delay:1200ms">
       <svg x="25" y="260" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff"><path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm.5 4.75v3.44l2.78 1.61a.75.75 0 1 1-.75 1.3l-3.16-1.83A.75.75 0 0 1 7 8.69V4.75a.75.75 0 0 1 1.5 0z"/></svg>
       <text x="50" y="272.5" class="label">Avg Commits / Day:</text>
-      <text x="350" y="272.5" class="value" text-anchor="end">0.5</text>
+      <text x="350" y="272.5" class="value" text-anchor="end">0.6</text>
       
     </g>
     <g class="row" style="animation-delay:1350ms">
@@ -562,7 +562,7 @@
     <g class="row" style="animation-delay:1650ms">
       <svg x="25" y="335" width="16" height="16" viewBox="0 0 16 16" fill="#58a6ff"><path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042z"/></svg>
       <text x="50" y="347.5" class="label">Contributions This Year:</text>
-      <text x="350" y="347.5" class="value" text-anchor="end">203</text>
+      <text x="350" y="347.5" class="value" text-anchor="end">205</text>
       
     </g>
     <g class="row" style="animation-delay:1800ms">
