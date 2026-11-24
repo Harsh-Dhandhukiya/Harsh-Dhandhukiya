@@ -230,7 +230,7 @@
       <rect class="" x="0" y="0" width="520" height="568" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
       
       <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#30363d">─</tspan><tspan fill="#c5ff4a"> Harsh-Dhandhukiya@github </tspan><tspan fill="#30363d">────────────────────────────────</tspan></text>
-<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">.......................</tspan><tspan fill="#f0f6fc"> 2 years, 6 months, 6 days</tspan></text>
+<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">.......................</tspan><tspan fill="#f0f6fc"> 2 years, 6 months, 7 days</tspan></text>
 <text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Location: </tspan><tspan fill="#484f58">............</tspan><tspan fill="#f0f6fc"> Gandhinagar, Gujarat(State), INDIA</tspan></text>
 <text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#f0f6fc"> C++, HTML, TypeScript, Java, C</tspan></text>
 <text x="12" y="92" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Joined: </tspan><tspan fill="#484f58">........................................</tspan><tspan fill="#f0f6fc"> May 2024</tspan></text>
@@ -239,7 +239,7 @@
 <text x="12" y="154" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Email: </tspan><tspan fill="#484f58">..........................</tspan><tspan fill="#f0f6fc"> 25harsh012005@gmail.com</tspan></text>
 <text x="12" y="180" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#30363d">─</tspan><tspan fill="#c5ff4a"> GitHub Stats </tspan><tspan fill="#30363d">────────────────────────────────────────────</tspan></text>
 <text x="12" y="198" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">.................</tspan><tspan fill="#79c0ff"> 9</tspan><tspan fill="#30363d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">.................</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-<text x="12" y="216" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">............................................</tspan><tspan fill="#79c0ff"> 259</tspan></text>
+<text x="12" y="216" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">............................................</tspan><tspan fill="#79c0ff"> 261</tspan></text>
   
     </g>
   
@@ -367,7 +367,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        379
+                        381
                     </text>
                 </g>
 
@@ -396,7 +396,7 @@
                 <!-- Current Streak range -->
                 <g transform='translate(247.5, 145)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
-                        Oct 5, 2026 - Nov 23, 2026
+                        Oct 5, 2026 - Nov 24, 2026
                     </text>
                 </g>
 
@@ -413,7 +413,7 @@
                 <!-- Current Streak big number -->
                 <g transform='translate(247.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='animation: currstreak 0.6s linear forwards'>
-                        50
+                        51
                     </text>
                 </g>
 
@@ -422,7 +422,7 @@
                 <!-- Longest Streak big number -->
                 <g transform='translate(412.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.2s'>
-                        50
+                        51
                     </text>
                 </g>
 
@@ -436,7 +436,7 @@
                 <!-- Longest Streak range -->
                 <g transform='translate(412.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.4s'>
-                        Oct 5, 2026 - Nov 23, 2026
+                        Oct 5, 2026 - Nov 24, 2026
                     </text>
                 </g>
             </g>
