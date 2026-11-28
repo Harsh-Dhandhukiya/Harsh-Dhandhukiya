@@ -3,7 +3,7 @@ name: Update GitAscii
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 3 * * *"
+    - cron: '19 23 * * *'
 
 permissions:
   contents: write
